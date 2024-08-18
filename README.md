@@ -18,7 +18,7 @@ SmartTasks is built upon a modular UI foundation, using reusable UI components t
 - Router: Manages navigation between screens.
 
 Getting Started
-Clone the repository: git clone https://github.com/Ali-Zameen89/SmartTasks.git
+Clone the repository: git clone https://github.com/AliShahid89/SmartTasks.git
 
 Open the Xcode project.
 Build and run the app in the simulator or on a physical device.
