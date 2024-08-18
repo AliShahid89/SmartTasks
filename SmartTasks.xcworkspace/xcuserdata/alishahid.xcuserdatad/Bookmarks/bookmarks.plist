@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>2</string>
+					<key>EndingLineNumber</key>
+					<string>59</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>59</string>
+					<key>Timestamp</key>
+					<string>739731212.633579</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>SmartTasks/SmartTasks/Tasks/TasksViewController.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>  </string>
+				<key>leading</key>
+				<string>  
+  // Setup the navigation bar appearance and buttons
+</string>
+				<key>trailing</key>
+				<string>// Wanted to make a separate component for Navigation bar as well. Couldn't do as per time constraint.
+  private func setupNavigationBar() {
+    let titleFont = SmartTasksUI.font(type: .bold, size: .large)
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>30</string>
+					<key>EndingLineNumber</key>
+					<string>39</string>
+					<key>StartingColumnNumber</key>
+					<string>22</string>
+					<key>StartingLineNumber</key>
+					<string>39</string>
+					<key>Timestamp</key>
+					<string>739731299.646603</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>SmartTasks/SmartTasks/Tasks/CustomViews/TaskTableViewCell.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>separate</string>
+				<key>leading</key>
+				<string>  }()
+  
+  // Wanted to make a </string>
+				<key>trailing</key>
+				<string> component for dueDateStackView &amp; daysLeftStackView since they are being used in details section as well. Couldn't do as per time constraint.
+  
+  // Stack view for due date labels
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>

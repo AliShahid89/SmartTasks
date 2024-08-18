@@ -1,0 +1,6 @@
+framework module Pods_SmartTasks_SmartTasksUITests {
+  umbrella header "Pods-SmartTasks-SmartTasksUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
